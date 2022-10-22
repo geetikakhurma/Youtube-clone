@@ -5,3 +5,4 @@ The Application "Youtube clone" a responsive React JS applicstion consisting of 
 
 # DEMO
 https://gkyoutubeclone.netlify.app/
+![image](https://user-images.githubusercontent.com/43034251/197332057-0019231e-5d68-476f-914d-ddf5fe00fc0b.png)
