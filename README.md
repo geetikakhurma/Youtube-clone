@@ -1,5 +1,5 @@
 # READ ME
-The Application "Youtube clone" a responsive React JS applicstion consisting of video sections, custom categories, channel pages, videos and much more is based on  HTML5, CSS3, JavaScript, React. It is buid with the help of Material UI framework and data is extracted using Rapid API.
+The Application "Youtube clone" a responsive React JS applicstion consisting of video sections, custom categories, channel pages, videos and much more. Developed using React JS ,Material UI, Javascript, HTML5 and data is extracted using Rapid API.
 
 
 
